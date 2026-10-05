@@ -4,7 +4,7 @@
 
 Building **systems, applications, and analytical tools**.
 
-Interested in **financial markets, macroeconomics, geopolitics, technology, and strategy** — using software and quantitative methods as tools for deeper analysis.
+Interested in **financial markets, macroeconomics, geopolitics, technology, and strategy** using software and quantitative methods as tools for deeper analysis.
 
 ---
 
